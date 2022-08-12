@@ -3,7 +3,6 @@ A modular pedalboard system for guitars, bass and vocal effect rigs.
 
 ![4x600mm board render](https://github.com/indifferentengine/ModularPedalboard/blob/main/Renders/Overview1.PNG)
 
-
 Constructed from 3D printed parts, off-the-shelf 2040 aluminium extrusion and velcro.
 
 Simply print out the modular parts for the size and complexity of board you want and bolt them onto some aluminium extrusion.
@@ -77,3 +76,12 @@ You can also help us out by checking out our merch store over here:
 https://www.indifferentengine.com
 
 If you want other ways to support us, considering buying one of our T-shirts, listening to our music or come to a show. Or just reach out for a chat.
+
+# Photos
+
+![Adams Board Top](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/Top3.jpg)
+![Adams Board Braces Closeup](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/Braces_Closeup.jpg)
+![Adams Board Rubber Feet](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/RubberFeet2.jpg)
+![Adams Board TRex Chameleon mounting](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/TRexPowersupply_Front.jpg)
+![Adams Board Side](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/Side.jpg)
+
