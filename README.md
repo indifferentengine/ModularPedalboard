@@ -9,7 +9,11 @@ Simply print out the modular parts for the size and complexity of board you want
 
 # Where to find extrusions
 
-Extrusions can be found from many suppliers around the world - often suppliers will cut the extrusions to length for you, simply google "2040 aluminium extrusion cut to length" to locate a supplier.
+Aluminium extrusions are standardised in width and profile, and are easy to find world-wide.
+
+For this project, you need "2040 Aluminium Extrusion".
+
+Extrusions can be found from many suppliers - often suppliers will cut the extrusions to length for you, simply google "2040 aluminium extrusion cut to length" to locate a supplier. Use the length of extrusion that matches the board width you want. For reference, Adam Paul's prototype board (shown in pictures at the bottom of this page) uses a set of four 600mm aluminium 2040 extrusion.
 
 Here's the supplier I use (UK based):
 https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/
