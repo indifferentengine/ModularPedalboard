@@ -85,7 +85,7 @@ However, you cannot distribute compiled versions. In this context (a hardware de
 
 a) cannot sell any physically manufactured item of any kind - either as parts or assembled.
 
-b) cannot charge money for access to any source or CAD files or that you choose to distribute
+b) cannot charge money for access to any source or CAD files that you choose to distribute
 
 If you break these simple rules we will force you to be front row at one of our floor shows, where we can full-throat scream right in your sad little face.
 
