@@ -77,6 +77,22 @@ https://www.indifferentengine.com
 
 If you want other ways to support us, considering buying one of our T-shirts, listening to our music or come to a show. Or just reach out for a chat.
 
+# License
+
+Licensed under GNU GPL v3. This means you are free to take this design and make any changes you like and then share those changes freely, so long as you make the source for your changes publicly available. This benefits everyone - because if you make some improvement, we can all benefit from it.
+
+However, you cannot distribute compiled versions. In this context (a hardware device with CAD design), this effectively means you
+
+a) cannot sell any physically manufactured item of any kind - either as parts or assembled.
+
+b) cannot charge money for access to any source or CAD files or that you choose to distribute
+
+If you break these simple rules we will force you to be front row at one of our floor shows, where we can full-throat scream right in your sad little face.
+
+If you would like a license to sell kits, contact us.
+
+Everything is copyright (c) 2022 Indifferent Engine Ltd. Everything. OK? Indifferent Engine and the Indifferent Engine glitch logo are trademarks of Indifferent Engine Ltd.
+
 # Photos
 
 ![Adams Board Top](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/Top3.jpg)
