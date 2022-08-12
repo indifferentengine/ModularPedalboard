@@ -1,6 +1,9 @@
 # The Indifferent Engine Modular Pedalboard
 A modular pedalboard system for guitars, bass and vocal effect rigs. 
 
+![4x600mm board render](https://github.com/indifferentengine/ModularPedalboard/blob/main/Renders/Overview1.PNG)
+
+
 Constructed from 3D printed parts, off-the-shelf 2040 aluminium extrusion and velcro.
 
 Simply print out the modular parts for the size and complexity of board you want and bolt them onto some aluminium extrusion.
@@ -14,13 +17,19 @@ https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/
 
 # Different options
 
+The components are designed to allow the user to build up a board of many different sizes and options.
+
+![different board options gif](https://github.com/indifferentengine/ModularPedalboard/blob/main/Renders/BoardAssemble.gif?raw=true)
+
 You can make boards of many sizes with this modular system. You can use 2, 3 or 4 rails and the length of the rails can be cut to whatever width of board you are after.
 
 You could go as small as a 2 rail, 300mm wide board, like this:
-<<>>
+
+![basic 2x300mm board](https://github.com/indifferentengine/ModularPedalboard/blob/main/Renders/Basic_2x300.PNG?raw=true)
 
 Or as big as a 4 rail, 600mm wide board, like this:
-<<>>
+
+![basic 2x300mm board](https://github.com/indifferentengine/ModularPedalboard/blob/main/Renders/Basic_4x600.png?raw=true)
 
 You can even go wider than 600mm if you wanted to, especially if you add extra braces for the center of the board.
 
@@ -55,3 +64,16 @@ The patch bay requires 4x M5 bolts and T-slot nuts. The patchbay can be mounted 
 The powersupply mounting requires 8x M5 bolts and T-slot nuts, and only fits 4-rail boards. It must mount on the back 2 rails.
 
 Handles are printed in 2 parts in a similar way to the upper-tier support. Print both sides of the handle, then sandwich them together and bolt to the top side of the board. The handles require 8x M5 bolts and T-slot nuts. These handles can only be used on 3 and 4 rail boards.
+
+Once the rails and other components are all mounted in place, simply cut some 40mm wide heavy-duty velcro carpet to length and stick it to the top of each rail. You're now ready to mount some pedals! Power and audio cabling can be run underneath the rails to keep it tidy, and you can use ziplocks to attach the cabling to the rails to keep it from trailing around under the board.
+
+# Support the project
+
+We may offer pedalboard kits in the future, keep an eye on our social stuff:
+https://www.instagram.com/indifferentengine
+https://www.facebook.com/indifferentengine
+
+You can also help us out by checking out our merch store over here:
+https://www.indifferentengine.com
+
+If you want other ways to support us, considering buying one of our T-shirts, listening to our music or come to a show. Or just reach out for a chat.
