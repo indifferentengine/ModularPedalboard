@@ -46,7 +46,7 @@ The intention is to continue to support the project and further add to the range
 
 # 3D Printing
 
-I've printed these parts in PLA at 60% infill and gigged with it extensively. It's shown no signs of wear or braking, and we are a band that abuse our equipment. So, I'm not too worried about how sturdy the plastic parts are. However, you could choose to print in PETG or ABS if you wanted to increase the durability of your board.
+I print these parts in PLA at 60% infill with 0.32 layer height. All parts print without supports.
 
 # How To Build
 
@@ -68,7 +68,7 @@ The patch bay requires 4x M5 bolts and T-slot nuts. The patchbay can be mounted 
 
 <img src="https://github.com/indifferentengine/ModularPedalboard/blob/main/STL/Components/Patchbay/PatchBay.gif" width="200">
 
-The powersupply mounting requires 8x M5 bolts and T-slot nuts, and only fits 4-rail boards. It must mount on the back 2 rails.
+The powersupply mounting for T-rex Chameleon requires 8x M5 bolts and T-slot nuts, and only fits 4-rail boards. It must mount on the back 2 rails.
 
 Handles are printed in 2 parts for each handle, in a similar way to the upper-tier support. Print both sides of the handle, then sandwich them together and bolt to the top side of the board. The handles require 8x M5 bolts and T-slot nuts. These handles can only be used on 3 and 4 rail boards.
 
