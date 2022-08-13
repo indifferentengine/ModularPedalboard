@@ -61,14 +61,23 @@ Decide how many rails you want on your main board; 2, 3 or 4. You will need to p
 Once completed, bolt your braces to the ends of the aluminium extrusion using 8mm M5 bolts and T-slot nuts. Each brace requires 8 nuts and bolts. We recommend glueing some large rubber feet to the bottom of the braces to prevent the board from slipping around on stage.
 
 If you want to add an upper tier you can use tier supports. Tier supports come in two pieces which sandwich together. So for a single upper rail, you will need 4x tier supports. Bolt the supports to both the upper and lower rails using 4x M5 bolts and T-slot nuts.
+![Upper tier sandwich](https://github.com/indifferentengine/ModularPedalboard/blob/main/STL/Components/Upper%20Tier%20Supports/60mm%20Tier/UpperTierSupport.gif)
 
 The patch bay requires 4x M5 bolts and T-slot nuts. The patchbay can be mounted to the top side of the board, or underneath the board in the case that you are building a 4-rail board. 
 
+![Patchbay lid assembly](https://github.com/indifferentengine/ModularPedalboard/blob/main/STL/Components/Patchbay/PatchBay.gif)
+
 The powersupply mounting requires 8x M5 bolts and T-slot nuts, and only fits 4-rail boards. It must mount on the back 2 rails.
 
-Handles are printed in 2 parts in a similar way to the upper-tier support. Print both sides of the handle, then sandwich them together and bolt to the top side of the board. The handles require 8x M5 bolts and T-slot nuts. These handles can only be used on 3 and 4 rail boards.
+Handles are printed in 2 parts for each handle, in a similar way to the upper-tier support. Print both sides of the handle, then sandwich them together and bolt to the top side of the board. The handles require 8x M5 bolts and T-slot nuts. These handles can only be used on 3 and 4 rail boards.
+
+![Handle assembly sandwich](https://github.com/indifferentengine/ModularPedalboard/blob/main/STL/Components/Handles/3%20Rail%20Handle/Handles.gif
+)
 
 Once the rails and other components are all mounted in place, simply cut some 40mm wide heavy-duty velcro carpet to length and stick it to the top of each rail. You're now ready to mount some pedals! Power and audio cabling can be run underneath the rails to keep it tidy, and you can use ziplocks to attach the cabling to the rails to keep it from trailing around under the board.
+
+The following gif shows how a board with 4 rails, handles and an upper tier go together:
+![Board Assembly with 4 rails, upper tier and handles](https://github.com/indifferentengine/ModularPedalboard/blob/main/Renders/Assembly%20Gif/BoardAssembly_HandlesAndTier.gif)
 
 # Support the project
 
