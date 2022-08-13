@@ -108,7 +108,7 @@ If you would like a license to sell kits, contact us.
 Everything is copyright (c) 2022 Indifferent Engine Ltd. Everything. OK? Indifferent Engine and the Indifferent Engine glitch logo are trademarks of Indifferent Engine Ltd.
 
 # Photos
-
+![Adams Board Top summer 2022](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/Live%20setup%20summer%202022.jpg)
 ![Adams Board Top](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/Top3.jpg)
 ![Adams Board Braces Closeup](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/Braces_Closeup.jpg)
 ![Adams Board Rubber Feet](https://github.com/indifferentengine/ModularPedalboard/blob/main/Photos/Adam%20Paul's%20Prototype%20Board/RubberFeet2.jpg)
