@@ -15,7 +15,7 @@ For this project, you need "2040 Aluminium Extrusion".
 
 Extrusions can be found from many suppliers - often suppliers will cut the extrusions to length for you, simply google "2040 aluminium extrusion cut to length" to locate a supplier. Use the length of extrusion that matches the board width you want. For reference, Adam Paul's prototype board (shown in pictures at the bottom of this page) uses a set of four 600mm aluminium 2040 extrusion.
 
-Here's the supplier I use (UK based):
+Here's the supplier we use (UK based):
 https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/
 
 # Different options
@@ -46,7 +46,7 @@ The intention is to continue to support the project and further add to the range
 
 # 3D Printing
 
-I print these parts in PLA at 60% infill with 0.32 layer height. All parts print without supports.
+We print these parts in PLA at 60% infill with 0.32 layer height. All parts print without supports.
 
 # How To Build
 
