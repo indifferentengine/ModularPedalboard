@@ -66,7 +66,7 @@ Decide how many rails you want on your main board; 2, 3 or 4. You will need to p
 | 3      | 2x Brace1, 2x Brace2             |
 | 4      | 2x Brace1, 2x Brace2, 2xBrace3   |
 
-Once completed, bolt your braces to the ends of the aluminium extrusion using 8mm M5 bolts and T-slot nuts. Each brace requires 8 nuts and bolts. We recommend glueing some large rubber feet to the bottom of the braces to prevent the board from slipping around on stage.
+Once completed, bolt your braces to the ends of the aluminium extrusion using 10mm M5 bolts and M5 T-slot nuts. Each brace requires 8 nuts and bolts. We recommend glueing some large rubber feet to the bottom of the braces to prevent the board from slipping around on stage.
 
 If you want to add an upper tier you can use tier supports. Tier supports come in two pieces which sandwich together. So for a single upper rail, you will need 4x tier supports. Bolt the supports to both the upper and lower rails using 4x M5 bolts and T-slot nuts.
 
