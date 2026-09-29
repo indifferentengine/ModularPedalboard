@@ -7,6 +7,10 @@ Constructed from 3D printed parts, off-the-shelf 2040 aluminium extrusion and ve
 
 Simply print out the modular parts for the size and complexity of board you want and bolt them onto some aluminium extrusion.
 
+# Designer App
+
+We've launched a [designer app](https://www.indifferentengine.com/pedalboard) that you can use to mock up your pedalboard design. You can then either purchase the board as a self-assembly kit, or use the summary page to download the STLs for home printing.
+
 # Where to find extrusions
 
 Aluminium extrusions are standardised in width and profile, and are easy to find world-wide.
@@ -16,7 +20,11 @@ For this project, you need "2040 Aluminium Extrusion".
 Extrusions can be found from many suppliers - often suppliers will cut the extrusions to length for you, simply google "2040 aluminium extrusion cut to length" to locate a supplier. Use the length of extrusion that matches the board width you want. For reference, Adam Paul's prototype board (shown in pictures at the bottom of this page) uses a set of four 600mm aluminium 2040 extrusion.
 
 Here's the supplier we use (UK based):
-https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/
+[Ooznest](https://ooznest.co.uk/product/v-slot-linear-rail-20x40mm-cut-to-size/)
+
+# Non-slip feet
+
+The latest V2 release includes indentations for non-slip rubber feet. The feet we use are [3M™ Bumpon™ SJ 5007 Black Polyurethane Rubber Foot 10.2mm x 2.5mm](https://www.rapidonline.com/3m-bumpon-sj-5007-black-polyurethane-rubber-foot-10-2mm-x-2-5mm-single-49-4704)
 
 # Different options
 
